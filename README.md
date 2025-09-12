@@ -41,9 +41,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/emann-10/emann-10/output/snake.svg" alt="Snake animation" />
-
-###
