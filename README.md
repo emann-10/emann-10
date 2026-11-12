@@ -1,4 +1,4 @@
-```html
+html
 <div align="center">
   <img src="https://i.imgflip.com/65efzo.gif" width="150" />
 
@@ -69,9 +69,10 @@ const Eman = {
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=emann-10&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img width="48%"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=emann-10&theme=tokyonight&hide_border=true" />
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=emann-10&theme=tokyonight&hide_border=true&border_radius=10" />
+</div>
 
 <br/><br/>
 
