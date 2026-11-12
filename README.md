@@ -22,7 +22,7 @@
 ```javascript
 const Eman = {
   role: "Front-end Developer",
-  skills: ["HTML & CSS", "JavaScript", "Python", "C", "C++"],
+  skills: ["HTML & CSS", "JavaScript", "React", "Python", "C", "C++", "PHP"],
   currentlyLearning: "More about Web Development 🌱",
   goal: "Build beautiful & functional websites ✨"
 };
