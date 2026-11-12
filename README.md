@@ -9,7 +9,7 @@
     Passionate about building interactive, responsive, and user-friendly web applications.
   </p>
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,python,c,cpp,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,c,cpp,figma" />
 </div>
 
 ---
@@ -21,7 +21,7 @@ const Eman = {
   role: "Front-end Developer",
   technologies: [
     "HTML", "CSS", "JavaScript",
-    "React", "PHP", "Python", "C", "C++"
+    "React", "Python", "C", "C++"
   ],
   currentlyWorkingOn: "React Projects ⚛️",
   interests: ["Web Development", "UI Design", "IoT"],
@@ -44,9 +44,9 @@ const Eman = {
 <br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 
-**Programming & Backend**
+**Programming**
 <br/>
-<img src="https://skillicons.dev/icons?i=php,python,c,cpp" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp" />
 
 **Tools & Design**
 <br/>
@@ -57,8 +57,6 @@ const Eman = {
 ---
 
 ## 📌 Featured Projects
-
-<!-- Add your project repository links here -->
 
 - ⚛️ **React Projects** – Building interactive web applications.
 - 🌍 **Discover Egypt** – An Egypt tourism website.
