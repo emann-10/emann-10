@@ -1,4 +1,3 @@
-html
 <div align="center">
   <img src="https://i.imgflip.com/65efzo.gif" width="150" />
 
@@ -27,57 +26,62 @@ const Eman = {
   interests: ["Web Development", "UI Design", "IoT"],
   goal: "Building creative and meaningful digital experiences ✨"
 };
-```
 
-## 🌱 Currently Working On
+🌱 Currently Working On
 
-- ⚛️ Building projects using React.
-- 💻 Improving my front-end development skills.
-- 🎨 Creating responsive and user-friendly interfaces.
-- 🚀 Exploring new technologies and learning continuously.
+⚛️ Building projects using React.
 
-## 🛠️ Tech Toolbox
+💻 Improving my front-end development skills.
+
+🎨 Creating responsive and user-friendly interfaces.
+
+🚀 Exploring new technologies and learning continuously.
+
+🛠️ Tech Toolbox
 
 <div align="center">
 
-**Frontend**
+Frontend
 <br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 
-**Programming**
+Programming
 <br/>
 <img src="https://skillicons.dev/icons?i=python,c,cpp" />
 
-**Tools & Design**
+Tools & Design
 <br/>
 <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
 
 </div>
 
----
+📌 Featured Projects
 
-## 📌 Featured Projects
+⚛️ React Projects – Building interactive web applications.
 
-- ⚛️ **React Projects** – Building interactive web applications.
-- 🌍 **Discover Egypt** – An Egypt tourism website.
-- 🏛️ **Smart Heritage Preservation System** – An IoT-based museum protection project.
-- 🔥 **Calvis Fire Detection System** – An IoT fire detection and monitoring project.
+🌍 Discover Egypt – An Egypt tourism website.
 
----
+🏛️ Smart Heritage Preservation System – An IoT-based museum protection project.
 
-## 📊 GitHub Stats
+🔥 Calvis Fire Detection System – An IoT fire detection and monitoring project.
+
+📊 GitHub Stats
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emann-10&theme=tokyonight&hide_border=true" width="70%" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=emann-10&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=emann-10&theme=tokyonight&hide_border=true&border_radius=10" />
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=emann-10&theme=tokyo-night&hide_border=true" />
 
 </div>
 
-
-
 <div align="center">
 
-### 🤝 Connect With Me
+🤝 Connect With Me
 
 <a href="https://www.linkedin.com/in/eman-ramadan26">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -90,5 +94,5 @@ const Eman = {
 <a href="https://www.instagram.com/emaww__">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+
 </div>
-```
