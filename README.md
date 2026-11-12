@@ -1,3 +1,4 @@
+html
 <div align="center">
   <img src="https://i.imgflip.com/65efzo.gif" width="150" />
 
@@ -15,7 +16,7 @@
 
 ## 🚀 About Me
 
-javascript
+```javascript
 const Eman = {
   role: "Front-end Developer",
   technologies: [
@@ -26,46 +27,45 @@ const Eman = {
   interests: ["Web Development", "UI Design", "IoT"],
   goal: "Building creative and meaningful digital experiences ✨"
 };
+```
 
-🌱 Currently Working On
+## 🌱 Currently Working On
 
-⚛️ Building projects using React.
+- ⚛️ Building projects using React.
+- 💻 Improving my front-end development skills.
+- 🎨 Creating responsive and user-friendly interfaces.
+- 🚀 Exploring new technologies and learning continuously.
 
-💻 Improving my front-end development skills.
-
-🎨 Creating responsive and user-friendly interfaces.
-
-🚀 Exploring new technologies and learning continuously.
-
-🛠️ Tech Toolbox
+## 🛠️ Tech Toolbox
 
 <div align="center">
 
-Frontend
+**Frontend**
 <br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 
-Programming
+**Programming**
 <br/>
 <img src="https://skillicons.dev/icons?i=python,c,cpp" />
 
-Tools & Design
+**Tools & Design**
 <br/>
 <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
 
 </div>
 
-📌 Featured Projects
+---
 
-⚛️ React Projects – Building interactive web applications.
+## 📌 Featured Projects
 
-🌍 Discover Egypt – An Egypt tourism website.
+- ⚛️ **React Projects** – Building interactive web applications.
+- 🌍 **Discover Egypt** – An Egypt tourism website.
+- 🏛️ **Smart Heritage Preservation System** – An IoT-based museum protection project.
+- 🔥 **Calvis Fire Detection System** – An IoT fire detection and monitoring project.
 
-🏛️ Smart Heritage Preservation System – An IoT-based museum protection project.
+---
 
-🔥 Calvis Fire Detection System – An IoT fire detection and monitoring project.
-
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -79,9 +79,11 @@ Tools & Design
 
 </div>
 
+---
+
 <div align="center">
 
-🤝 Connect With Me
+### 🤝 Connect With Me
 
 <a href="https://www.linkedin.com/in/eman-ramadan26">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -96,3 +98,4 @@ Tools & Design
 </a>
 
 </div>
+```
