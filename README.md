@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-```javascript
+javascript
 const Eman = {
   role: "Front-end Developer",
   technologies: [
