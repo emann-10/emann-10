@@ -69,18 +69,11 @@ const Eman = {
 
 <div align="center">
 
-  <img width="48%"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=emann-10&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emann-10&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
-<br/><br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=emann-10&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
 
 <div align="center">
 
@@ -97,6 +90,5 @@ const Eman = {
 <a href="https://www.instagram.com/emaww__">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
 </div>
 ```
